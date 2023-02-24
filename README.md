@@ -1,1 +1,1 @@
-"# function_python" 
+some basic application using function in python
